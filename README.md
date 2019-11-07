@@ -1,5 +1,5 @@
 # The Shurima Times
-The Shurima Times is Vietnam newspaper based in Danang with Worldwide influence and readership.
+The Shurima Times is Vietnamese newspaper based in Danang with Worldwide influence and readership.
 ## Table of contents
 - [Home](https://github.com/khanicdi/the-shurima-times/blob/the-shurima-times/index.html)
 - [Science](https://github.com/khanicdi/the-shurima-times/tree/the-shurima-times/science)
