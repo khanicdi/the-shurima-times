@@ -6,6 +6,7 @@ The Shurima Times is Vietnamese newspaper based in Danang with worldwide influen
 - [Tech](https://github.com/khanicdi/the-shurima-times/tree/the-shurima-times/tech)
 - [World](https://github.com/khanicdi/the-shurima-times/tree/the-shurima-times/world)
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you would like to change.
 ## Author
 Khan
